@@ -6,7 +6,7 @@ Key skills: EDA, Data Cleaning, Supervised Learning Classification, SMOTE Analys
 
 # DataSet Source:
 
-The dataset is taken from https://www.kaggle.com/c/ga-customer-revenue-prediction.The data contains 903653 transactions and 55 features. Out of these 55 features, 12 are numerical and 43 are categorical(including binary).
+The dataset is taken from https://www.kaggle.com/c/ga-customer-revenue-prediction. The data contains 903653 transactions and 55 features. Out of these 55 features, 12 are numerical and 43 are categorical(including binary).
 
 # Resources Used:
 Python Version: 3.7
